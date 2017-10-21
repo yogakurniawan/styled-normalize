@@ -1,7 +1,7 @@
 {
-  "name": "styled-normalize",
-  "version": "2.2.1",
-  "description": "Normalize.css for your styled-components",
+  "name": "styled-sanitize",
+  "version": "1.0.0",
+  "description": "Sanitize.css for your styled-components",
   "main": "dist/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -12,12 +12,12 @@
   "typings": "index.d.ts",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LestaD/styled-normalize.git"
+    "url": "git+https://github.com/yogakurniawan/styled-sanitize.git"
   },
   "keywords": [
     "styled",
     "components",
-    "normalize",
+    "sanitize",
     "css",
     "react",
     "jss",
@@ -25,12 +25,12 @@
     "import",
     "export"
   ],
-  "author": "Sergey Sova <i.am@lestad.net> (https://lestad.top)",
+  "author": "Yoga Kurniwan <yogaygk@gmail.com> (http://yogakurniawan.com)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/LestaD/styled-normalize/issues"
+    "url": "https://github.com/yogakurniawan/styled-sanitize/issues"
   },
-  "homepage": "https://github.com/LestaD/styled-normalize#readme",
+  "homepage": "https://github.com/yogakurniawan/styled-yogakurniawan#readme",
   "devDependencies": {
     "babel-cli": "^6.24.1",
     "babel-plugin-styled-components": "^1.1.6",
