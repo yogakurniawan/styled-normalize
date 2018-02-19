@@ -2,7 +2,7 @@
 
 Single file with sanitize.css for your [styled-components](https://styled-components.com/)
 
-Original sanitize.css copied from [jonathantneal/sanitize.css](https://github.com/jonathantneal/sanitize.css)
+Original sanitize.css copied and adapted from [jonathantneal/sanitize.css](https://github.com/jonathantneal/sanitize.css)
 
 
 ## Usage
@@ -38,6 +38,16 @@ const render = () => {
 }
 
 render()
+```
+
+With named import
+
+```js
+// ES Modules
+import { normalize, version } from 'styled-normalize'
+
+// CommonJS
+const { normalize, version } = require('styled-normalize')
 ```
 
 ## ServerSide Rendering

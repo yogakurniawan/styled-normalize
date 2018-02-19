@@ -1,8 +1,8 @@
 import { css } from 'styled-components'
 
-export const version = '1.0.0'
+export const version = '5.0.0'
 
-export default css`
+export const sanitize = css`
   *,
   ::before,
   ::after {
@@ -319,3 +319,5 @@ export default css`
   }
 
 `
+
+export default sanitize
