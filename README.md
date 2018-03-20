@@ -44,10 +44,10 @@ With named import
 
 ```js
 // ES Modules
-import { normalize, version } from 'styled-normalize'
+import { sanitize, version } from 'styled-sanitize'
 
 // CommonJS
-const { normalize, version } = require('styled-normalize')
+const { sanitize, version } = require('styled-sanitize')
 ```
 
 ## ServerSide Rendering
