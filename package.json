@@ -30,7 +30,7 @@
   "bugs": {
     "url": "https://github.com/yogakurniawan/styled-sanitize/issues"
   },
-  "homepage": "https://github.com/yogakurniawan/styled-yogakurniawan#readme",
+  "homepage": "https://github.com/yogakurniawan/styled-sanitize#readme",
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-plugin-styled-components": "^1.4.0",
